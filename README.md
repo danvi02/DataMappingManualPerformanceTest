@@ -1,4 +1,4 @@
-# Controller API for Performance Testing
+# Performance Testing For Data Mapping Conversions Between Entity and DTO's
 
 This repository contains a Spring Boot Controller API designed for performance testing different methods of converting entity objects to DTOs (Data Transfer Objects). It includes three endpoints, each showcasing a different approach for this conversion:
 
